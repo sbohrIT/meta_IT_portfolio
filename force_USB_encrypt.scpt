@@ -1,6 +1,8 @@
-#USB Encryption Check - Mac OS X 
-
+#USB Encryption Check & Force Encryption - Mac OS X 
 #Detecting USB Drive through Folder Actions
+
+#Created by Scott Bohr - Enterprise Support Tech 
+
 
 [AppleScript]
 
