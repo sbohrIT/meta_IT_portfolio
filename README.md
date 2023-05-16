@@ -10,3 +10,9 @@ Though these did not land, these projects highlight my ability to:
 2. Use my technical skillset to develop creative solutions to these problems using code.
 
 
+Languages:
+- Python
+- AppleScript
+- Bash Scripting
+
+
