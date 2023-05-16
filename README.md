@@ -11,8 +11,8 @@ Though these did not land, these projects highlight my ability to:
 
 
 Languages:
-- **Python
-- **AppleScript
-- **Bash Scripting
+- ***Python***
+- ***AppleScript***
+- ***Bash Scripting***
 
 
